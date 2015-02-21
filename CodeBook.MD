@@ -19,12 +19,12 @@ Variable Values:  1 - 30
 Variable Name:  activity_type  
 Description:  The activity to which the measures relate  
 Variable Class:  Factor with 6 levels  
-Values:    LAYING  
-           SITTING  
-           STANDING  
-           WALKING  
-           WALKING_UPSTAIRS  
-           WALKING_DOWNSTAIRS  
+Values:   LAYING  
+          SITTING  
+          STANDING  
+          WALKING  
+          WALKING_UPSTAIRS  
+          WALKING_DOWNSTAIRS  
            
 Variable Name:  test_train  
 Description:  Identifies if the subject was part of the test or training dataset from the original files  
