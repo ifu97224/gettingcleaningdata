@@ -22,15 +22,15 @@ Variable Class:  Factor with 6 levels
 Values:   LAYING  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SITTING  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;STANDING  
-          *WALKING  
-          *WALKING_UPSTAIRS  
-          *WALKING_DOWNSTAIRS  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WALKING  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WALKING_UPSTAIRS  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WALKING_DOWNSTAIRS  
            
 Variable Name:  test_train  
 Description:  Identifies if the subject was part of the test or training dataset from the original files  
 Variable Class:  Factor with 2 levels  
 Values:    TEST   The subject was part of the test file  
-           TRAIN  The subject was part of the training file  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TRAIN  The subject was part of the training file  
     
 -------------------------------------------------------------
  Centered   Default           Right Left
