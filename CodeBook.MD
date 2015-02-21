@@ -19,9 +19,9 @@ Variable Values:  1 - 30
 Variable Name:  activity_type  
 Description:  The activity to which the measures relate  
 Variable Class:  Factor with 6 levels  
-Values:   *LAYING  
-          *SITTING  
-          *STANDING  
+Values:   LAYING  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SITTING  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;STANDING  
           *WALKING  
           *WALKING_UPSTAIRS  
           *WALKING_DOWNSTAIRS  
