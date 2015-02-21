@@ -23,7 +23,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 Note:  The data set contains 180 observations and 69 variables
 ---------------------------------------------------------------
 
-Variable Name:    subject  
+**Variable Name:**    subject  
 Description:      The unique identifier for the subject that participated in the study  
 Variable Type:    Integer  
 Variable Values:  1 - 30  
