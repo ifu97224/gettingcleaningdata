@@ -11,10 +11,11 @@ Data Dictionary (Code Book) for fitness_data_tidy.txt
 Note:  The data set contains 180 observations and 69 variables
 ---------------------------------------------------------------
 
-Variable Name |  Description                               | Variable Class | Values
-----------------------------------------------------------------------------------------
-subject       |  The unique identifier for the subject     | Integer        | 1 - 30
-              |  that participated in the study            |                |
+Variable Name:    subject  
+Description:      The unique identifier for the subject that participated in the study  
+Variable Type:    Integer
+Variable Values:  1 - 30  
+
 
 
 
