@@ -3,16 +3,20 @@ title: "CodeBook.MD"
 output: html_document
 ---
 
---------------------------------------------------------
+======================================================
 Data Dictionary (Code Book) for fitness_data_tidy.txt
----------------------------------------------------------
+======================================================
 
+--------------------------------------------------------------
 Note:  The data set contains 180 observations and 69 variables
+---------------------------------------------------------------
 
-Variable Name: subject
-Description: The number of the 'subject' - a unique identifier for the individual subject being studied
-Variable Class:  Integer
-Values:  1..30
+Variable Name |  Description                               | Variable Class | Values
+----------------------------------------------------------------------------------------
+subject       |  The unique identifier for the subject     | Integer        | 1 - 30
+              |  that participated in the study            |                |
+
+
 
 Variable Name:  activity_type
 Description:  The activity to which the measures relate
