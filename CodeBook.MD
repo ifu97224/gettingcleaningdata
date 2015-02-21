@@ -13,27 +13,24 @@ Note:  The data set contains 180 observations and 69 variables
 
 Variable Name:    subject  
 Description:      The unique identifier for the subject that participated in the study  
-Variable Type:    Integer
+Variable Type:    Integer  
 Variable Values:  1 - 30  
 
-
-
-
-Variable Name:  activity_type
-Description:  The activity to which the measures relate
-Variable Class:  Factor with 6 levels
-Values:    LAYING
-           SITTING
-           STANDING
-           WALKING
-           WALKING_UPSTAIRS
-           WALKING_DOWNSTAIRS
+Variable Name:  activity_type  
+Description:  The activity to which the measures relate  
+Variable Class:  Factor with 6 levels  
+Values:    LAYING  
+           SITTING  
+           STANDING  
+           WALKING  
+           WALKING_UPSTAIRS  
+           WALKING_DOWNSTAIRS  
            
-Variable Name:  test_train
-Description:  Identifies if the subject was part of the test or training dataset from the original files
-Variable Class:  Factor with 2 levels
-Values:    TEST .The subject was part of the test file
-           TRAIN. The subject was part of the training file
+Variable Name:  test_train  
+Description:  Identifies if the subject was part of the test or training dataset from the original files  
+Variable Class:  Factor with 2 levels  
+Values:    TEST   The subject was part of the test file  
+           TRAIN  The subject was part of the training file  
     
 
 tBodyAcc.mean...X
